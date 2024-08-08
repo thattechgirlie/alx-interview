@@ -4,8 +4,8 @@
 
 def minOperations(n):
     """
-    text editor can execute only
-    two operations in this file: Copy All and Paste
+    text editor can execute only two operations
+    in this file Copy All and Paste
     """
    
     if (n < 2):
