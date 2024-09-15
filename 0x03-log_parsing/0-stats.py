@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Log parsing 0*03"""
+""" Log parsing task"""
 
 import sys
 
