@@ -7,10 +7,10 @@ Pascal's Triangle
 def pascal_triangle(n):
     """
     Generate pascal's triangle size n.
-    
+
     Args:
         n (int): Size of triangle
-    
+
     Returns;
         list:List of lists of ints for pascals triangle
     """
