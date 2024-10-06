@@ -36,8 +36,8 @@ def findPrimes(n):
 
 def isWinner(x, nums):
     """
-   function to determine winner between Maria /Ben in a game of
-   Prime Numbers
+    function to determine winner between Maria /Ben in a game of
+    Prime Numbers
     """
     players = {'Maria': 0, 'Ben': 0}
     cluster = set()
