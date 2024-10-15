@@ -1,19 +1,12 @@
 #!/usr/bin/python3
-<<<<<<< HEAD
 """
-script that reads stdin line by line and computes metrics:
+0-stats.py
 """
-=======
-""" Log parsing task"""
->>>>>>> 2732f9129c0b2cc9550fd6f518d86ff42704a3c7
 
 import sys
 
 if __name__ == '__main__':
-<<<<<<< HEAD
-=======
 
->>>>>>> 2732f9129c0b2cc9550fd6f518d86ff42704a3c7
     filesize, count = 0, 0
     codes = ["200", "301", "400", "401", "403", "404", "405", "500"]
     stats = {k: 0 for k in codes}
