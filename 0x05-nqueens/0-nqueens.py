@@ -10,11 +10,11 @@ if len(sys.argv) != 2:
 try:
     n_q = int(sys.argv[1])
 except ValueError:
-    print('N must ba a number')
+    print('N must be a number')
     exit(1)
 
 if n_q < 4:
-    print('N must ba at least 4')
+    print('N must be at least 4')
     exit(1)
 
 
