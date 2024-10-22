@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-<<<<<<< HEAD
-=======
 """ 0-prime_game.py"""
 
 
@@ -63,4 +61,3 @@ def isWinner(x, nums):
         return 'Ben'
     else:
         return None
->>>>>>> bb36e7e2080fdf2b849adbe4028ed6d85270df66
